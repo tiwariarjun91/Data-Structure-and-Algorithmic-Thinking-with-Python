@@ -21,6 +21,6 @@ def orderedLinearSearch2(arr,target):
 arr = [1,2,3,4,5,6,7,8,9,10]
 
 print(orderedLinearSearch(arr,5))
-print(orderedLinearSearch(arr,100))
+print(orderedLinearSearch(arr,150))
 print(orderedLinearSearch2(arr,6))
 print(orderedLinearSearch(arr,100))
